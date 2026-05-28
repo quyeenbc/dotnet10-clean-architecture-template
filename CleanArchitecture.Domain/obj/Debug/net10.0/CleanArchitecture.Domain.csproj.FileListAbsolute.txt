@@ -1,0 +1,11 @@
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\bin\Debug\net10.0\CleanArchitecture.Domain.deps.json
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\bin\Debug\net10.0\CleanArchitecture.Domain.dll
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\bin\Debug\net10.0\CleanArchitecture.Domain.pdb
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\obj\Debug\net10.0\CleanArchitecture.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\obj\Debug\net10.0\CleanArchitecture.Domain.AssemblyInfoInputs.cache
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\obj\Debug\net10.0\CleanArchitecture.Domain.AssemblyInfo.cs
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\obj\Debug\net10.0\CleanArchitecture.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\obj\Debug\net10.0\CleanArchitecture.Domain.dll
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\obj\Debug\net10.0\refint\CleanArchitecture.Domain.dll
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\obj\Debug\net10.0\CleanArchitecture.Domain.pdb
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Domain\obj\Debug\net10.0\ref\CleanArchitecture.Domain.dll

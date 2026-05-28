@@ -1,0 +1,15 @@
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\CleanArchitecture.Application.csproj.AssemblyReference.cache
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\CleanArchitecture.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\CleanArchitecture.Application.AssemblyInfoInputs.cache
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\CleanArchitecture.Application.AssemblyInfo.cs
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\CleanArchitecture.Application.csproj.CoreCompileInputs.cache
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\bin\Debug\net10.0\CleanArchitecture.Application.deps.json
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\bin\Debug\net10.0\CleanArchitecture.Application.dll
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\bin\Debug\net10.0\CleanArchitecture.Application.pdb
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\bin\Debug\net10.0\CleanArchitecture.Domain.dll
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\bin\Debug\net10.0\CleanArchitecture.Domain.pdb
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\CleanArc.03AFA812.Up2Date
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\CleanArchitecture.Application.dll
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\refint\CleanArchitecture.Application.dll
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\CleanArchitecture.Application.pdb
+D:\Projects\dotnet10-clean-architecture-template\CleanArchitecture.Application\obj\Debug\net10.0\ref\CleanArchitecture.Application.dll
